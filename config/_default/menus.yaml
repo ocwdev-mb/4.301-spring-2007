@@ -1,0 +1,26 @@
+leftnav:
+- identifier: 474fa987-f434-0339-49e8-91684314bc66
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: 44723501-09d9-ccaa-219d-0306b1668489
+  name: Calendar
+  pageRef: /pages/calendar
+  weight: 20
+- identifier: 4fcea2b0-b279-eae9-58af-e729422a5933
+  name: Readings
+  pageRef: /pages/readings
+  weight: 30
+- identifier: 427ab737-efc6-9cdc-8db0-ab55a522c634
+  name: Lecture Notes
+  pageRef: /pages/lecture-notes
+  weight: 40
+- identifier: 8c77198b-5306-43e0-e057-28b019b4e522
+  name: Projects
+  pageRef: /pages/projects/
+  weight: 50
+- identifier: d8c0f18b-d364-943c-ca0d-62602a9d06f9
+  name: Student Work 2004
+  pageRef: /pages/projects/student-work-2004/
+  parent: 8c77198b-5306-43e0-e057-28b019b4e522
+  weight: 10
